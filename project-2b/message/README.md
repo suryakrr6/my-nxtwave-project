@@ -1,42 +1,4 @@
 <<<<<<< HEAD
-# First Names of the People
-
-Create a file `index.js` in the <b>names</b> directory.
-
-Write a JS function in `index.js` with function name `getPeopleInCity` that accepts people names list and returns an array of containing the first names of the people.
-
-Export the function using the default export syntax.
-
-<b>Folder Structure</b>
-
-```
-country
-    - state
-        - city
-            - index.js    // contains the people names list
-utilities
-    - utils
-        - index.js        // contains a function that returns the first names of the people
-names
-    - index.js            // create the file and write your code here
-```
-
-Use the given modules.
-
-<b>Use Common JS module syntax</b>.
-=======
-<<<<<<< HEAD
-# Greeting Message
-
-Create a new file `index.js` in the <b>message</b> directory.
-
-Write a JS program to export the string `Hello Rahul! Have a Great Day` using the message from `greeting/index.js`.
-
-Export the template string using the default export syntax.
-
-<b>Use Common JS module syntax</b>.
-=======
-<<<<<<< HEAD
 # Get Date After x Days
 
 Given an `index.js` file parallel to `README.md` file.
@@ -117,5 +79,3 @@ Import the function in the `importFunction.js` file.
 >>>>>>> c3f2e504a8bdc09245e74c7beafb0ff47b540929
 >>>>>>> 7c4facdf5ff9b8d79333b60487924da0f3a7e4ca
 >>>>>>> 37e07c0be548223a01c6a323c6942819656bb46a
->>>>>>> c188628183c96d25141e655bbad49c7e3d504a9d
->>>>>>> 7c6205e6fa09f9d72174c4e7a33cb365863b2ca3
