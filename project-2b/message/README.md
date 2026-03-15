@@ -1,77 +1,4 @@
 <<<<<<< HEAD
-# Get a String
-
-Given an `app.js` file, write an API with path `/` using express JS to send `Express JS` text as a response.
-
-Export the express instance using default export syntax.
-
-<b>Use Common JS module syntax</b>.
-=======
-<<<<<<< HEAD
-# Calculate Ratio and Factorial
-
-Create a file `index.js` in the <b>ratioFactorial</b> directory.
-
-Write a JS function in `index.js` that accepts 3 numbers as arguments and return the ratio of the first two numbers and factorial of the third number in an object with keys as `ratio` and `factorial`.
-
-Export the function using default export syntax.
-=======
-<<<<<<< HEAD
-# First Names of the People
-
-Create a file `index.js` in the <b>names</b> directory.
-
-Write a JS function in `index.js` with function name `getPeopleInCity` that accepts people names list and returns an array of containing the first names of the people.
-
-Export the function using the default export syntax.
->>>>>>> 8cc2c37f0663e1bbdb0e4fff94bba31de8cf1db0
-
-<b>Folder Structure</b>
-
-```
-<<<<<<< HEAD
-utilities
-    - factorial
-        - index.js         // contains a function that returns the factorial of the given number
-
-    - ratio
-        - index.js         // contains a function that returns the ratio of 2 given numbers
-
-    - ratioFactorial
-        - index.js         // create the file and write your code here
-```
-
-Use the functions provided in the ratio and factorial directories.
-
-<b>Use Common JS module syntax</b>.
-=======
-country
-    - state
-        - city
-            - index.js    // contains the people names list
-utilities
-    - utils
-        - index.js        // contains a function that returns the first names of the people
-names
-    - index.js            // create the file and write your code here
-```
-
-Use the given modules.
-
-<b>Use Common JS module syntax</b>.
-=======
-<<<<<<< HEAD
-# Greeting Message
-
-Create a new file `index.js` in the <b>message</b> directory.
-
-Write a JS program to export the string `Hello Rahul! Have a Great Day` using the message from `greeting/index.js`.
-
-Export the template string using the default export syntax.
-
-<b>Use Common JS module syntax</b>.
-=======
-<<<<<<< HEAD
 # Get Date After x Days
 
 Given an `index.js` file parallel to `README.md` file.
@@ -152,7 +79,3 @@ Import the function in the `importFunction.js` file.
 >>>>>>> c3f2e504a8bdc09245e74c7beafb0ff47b540929
 >>>>>>> 7c4facdf5ff9b8d79333b60487924da0f3a7e4ca
 >>>>>>> 37e07c0be548223a01c6a323c6942819656bb46a
->>>>>>> c188628183c96d25141e655bbad49c7e3d504a9d
->>>>>>> 7c6205e6fa09f9d72174c4e7a33cb365863b2ca3
->>>>>>> 8cc2c37f0663e1bbdb0e4fff94bba31de8cf1db0
->>>>>>> c584e7e371135e8b4819be5b10ae1d7d0d97c5b3
