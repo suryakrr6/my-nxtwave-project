@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "gadgets-page",
     "version": "1.0.0",
     "description": "",
@@ -9,3 +10,26 @@
       "express": "4.17.1"
     }
 }
+=======
+<<<<<<< HEAD
+  "name": "get-a-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+=======
+  "name": "get-date-after-x-days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "2.19.0"
+>>>>>>> c584e7e371135e8b4819be5b10ae1d7d0d97c5b3
+  }
+}
+>>>>>>> 675326ba8b1cc268a7eb3b7578ebb9c1de0ea093
