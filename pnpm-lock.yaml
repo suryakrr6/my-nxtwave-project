@@ -1,4 +1,11 @@
 dependencies:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 675326ba8b1cc268a7eb3b7578ebb9c1de0ea093
+>>>>>>> 07d0808240bd3fea19180bbf7651c5fa6603382a
   express: 4.17.1
 lockfileVersion: 5.2
 packages:
@@ -392,3 +399,22 @@ packages:
       integrity: sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==
 specifiers:
   express: 4.17.1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+  date-fns: 2.19.0
+lockfileVersion: 5.2
+packages:
+  /date-fns/2.19.0:
+    dev: false
+    engines:
+      node: '>=0.11'
+    resolution:
+      integrity: sha512-X3bf2iTPgCAQp9wvjOQytnf5vO5rESYRXlPIVcgSbtT5OTScPcsf9eZU+B/YIkKAtYr5WeCii58BgATrNitlWg==
+specifiers:
+  date-fns: 2.19.0
+>>>>>>> c584e7e371135e8b4819be5b10ae1d7d0d97c5b3
+>>>>>>> 675326ba8b1cc268a7eb3b7578ebb9c1de0ea093
+>>>>>>> 07d0808240bd3fea19180bbf7651c5fa6603382a
