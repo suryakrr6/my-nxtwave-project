@@ -1,5 +1,18 @@
 dependencies:
+<<<<<<< HEAD
   date-fns: 2.19.0
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 675326ba8b1cc268a7eb3b7578ebb9c1de0ea093
+>>>>>>> 07d0808240bd3fea19180bbf7651c5fa6603382a
+>>>>>>> 6b94abfe6d3a0ccf4272d08a0dc89622c2e8e2eb
+>>>>>>> e3117cc728dbe371d87dd8b888fcf01941ea0ed3
   express: 4.17.1
 lockfileVersion: 5.2
 packages:
@@ -63,12 +76,15 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha512-+Hp8fLp57wnUSt0tY0tHEXh4voZRDnoIrZPqlo3DPiI4y9lwg/jqx+1Om94/W6ZaPDOUbnjOt/99w66zk+l1Xg==
+<<<<<<< HEAD
   /date-fns/2.19.0:
     dev: false
     engines:
       node: '>=0.11'
     resolution:
       integrity: sha512-X3bf2iTPgCAQp9wvjOQytnf5vO5rESYRXlPIVcgSbtT5OTScPcsf9eZU+B/YIkKAtYr5WeCii58BgATrNitlWg==
+=======
+>>>>>>> e3117cc728dbe371d87dd8b888fcf01941ea0ed3
   /debug/2.6.9:
     dependencies:
       ms: 2.0.0
@@ -398,5 +414,31 @@ packages:
     resolution:
       integrity: sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==
 specifiers:
+<<<<<<< HEAD
   date-fns: 2.19.0
   express: 4.17.1
+=======
+  express: 4.17.1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+  date-fns: 2.19.0
+lockfileVersion: 5.2
+packages:
+  /date-fns/2.19.0:
+    dev: false
+    engines:
+      node: '>=0.11'
+    resolution:
+      integrity: sha512-X3bf2iTPgCAQp9wvjOQytnf5vO5rESYRXlPIVcgSbtT5OTScPcsf9eZU+B/YIkKAtYr5WeCii58BgATrNitlWg==
+specifiers:
+  date-fns: 2.19.0
+>>>>>>> c584e7e371135e8b4819be5b10ae1d7d0d97c5b3
+>>>>>>> 675326ba8b1cc268a7eb3b7578ebb9c1de0ea093
+>>>>>>> 07d0808240bd3fea19180bbf7651c5fa6603382a
+>>>>>>> 6b94abfe6d3a0ccf4272d08a0dc89622c2e8e2eb
+>>>>>>> e3117cc728dbe371d87dd8b888fcf01941ea0ed3
