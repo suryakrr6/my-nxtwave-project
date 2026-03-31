@@ -1,0 +1,10 @@
+POST http://localhost:3000/players/
+
+Content-Type:application/json 
+{
+  "playerName": "Makesh",
+  "jerseyNumber": 3,
+  "role": "Batsman"
+}
+
+
